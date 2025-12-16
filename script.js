@@ -1,52 +1,52 @@
 const quiz = [
   {
-    word: "apple",
-    choices: ["りんご", "みかん", "ぶどう", "ばなな"],
-    answer: 0
-  },
-  {
-    word: "book",
-    choices: ["えんぴつ", "本", "ドア", "机"],
-    answer: 1
-  },
-  {
-    word: "dog",
-    choices: ["ねこ", "とり", "いぬ", "さかな"],
-    answer: 2
-  },
-  {
-    word: "chair",
-    choices: ["いす", "つくえ", "まど", "べッド"],
-    answer: 0
-  },
-  {
-    word: "water",
-    choices: ["火", "土", "水", "風"],
-    answer: 2
-  },
-  {
-    word: "sun",
-    choices: ["月", "星", "空", "太陽"],
+    word: "benefit",
+    choices: ["目的", "お金", "共通の", "利益"],
     answer: 3
   },
   {
-    word: "cat",
-    choices: ["うし", "いぬ", "ねこ", "さる"],
+    word: "countryside",
+    choices: ["農園", "田舎", "発展途上国", "国境"],
+    answer: 1
+  },
+  {
+    word: "law",
+    choices: ["列", "法律", "生乳", "低い"],
+    answer: 1
+  },
+  {
+    word: "effort",
+    choices: ["事実", "飛行機", "努力", "勝利"],
     answer: 2
   },
   {
-    word: "school",
-    choices: ["びょういん", "えき", "学校", "公園"],
-    answer: 2
+    word: "nowadays",
+    choices: ["近ごろは", "未来の", "今後は", "数日以内に"],
+    answer: 0
   },
   {
-    word: "car",
-    choices: ["自転車", "電車", "車", "船"],
-    answer: 2
+    word: "attend",
+    choices: ["出席する", "成功する", "立つ", "当てる"],
+    answer: 0
   },
   {
-    word: "music",
-    choices: ["音楽", "絵", "数学", "歴史"],
+    word: "garbage",
+    choices: ["キャベツ", "大将", "栄養素", "ゴミ"],
+    answer: 3
+  },
+  {
+    word: "suggest",
+    choices: ["議論する", "を提案する", "を合わせる", "を捉える"],
+    answer: 1
+  },
+  {
+    word: "frequently",
+    choices: ["頻繁に", "自由に", "格好よく", "滑らかに"],
+    answer: 0
+  },
+  {
+    word: "ordinary",
+    choices: ["普通の", "オルゴール", "並外れた", "車"],
     answer: 0
   }
 ];
